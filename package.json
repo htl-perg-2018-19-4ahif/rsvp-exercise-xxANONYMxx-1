@@ -19,6 +19,14 @@
     "@types/http-status-codes": "^1.2.0",
     "@types/lokijs": "^1.5.2",
     "ts-node": "^7.0.1",
-    "typescript": "^3.1.6"
-  }
+    "typescript": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/rsvp-exercise-xxANONYMxx-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/rsvp-exercise-xxANONYMxx-1/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/rsvp-exercise-xxANONYMxx-1#readme"
 }
